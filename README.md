@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://abnahid.com/blog](https://abnahid.com/blog)
 
-- 💬 Ask me about **React, Javascript and Nodejs**
+- 💬 Ask me about **React, Javascript, Express.js Nodejs, and Mongodb**
 
 - 📫 How to reach me **abnahid580@gmail.com**
 
