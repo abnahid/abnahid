@@ -50,10 +50,10 @@
 
 <div align="center">
   <a href="https://codepen.io/aznahid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" height="40" alt="CodePen logo" />
+    <img src="https://cdn.simpleicons.org/codepen/000000"  height="40" alt="CodePen logo" />
   </a>
   <a href="https://twitter.com/xahid_420" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="Twitter logo" />
+    <img src="https://cdn.simpleicons.org/twitter/000000" height="40" alt="Twitter logo" />
   </a>
   <a href="https://linkedin.com/in/ajnahid" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
