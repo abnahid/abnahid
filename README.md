@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Jabbar Al Nahid</h1>
-<h3 align="center">A passionate frontend developer, digital marketer, web developer, and content creator from Sylhet, Bangladesh. He runs the website abnahid.com, where he offers services such as SEO, social media management, web design, and content creation. His expertise helps businesses improve their online presence, drive organic traffic, and engage effectively with their audiences.</h3>
+<h3 align="center">Web developer specializing in React, Tailwind CSS, and JavaScript. Showcasing projects at abnahid.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abnahid&label=Profile%20views&color=0e75b6&style=flat" alt="abnahid" /> </p>
 
@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abnahid](https://github.com/abnahid)
 
-- 📝 I regularly write articles on [https://abnahid-dev.netlify.app/](https://abnahid-dev.netlify.app)
-
 - 💬 Ask me about **React, Javascript, Express.js Nodejs, and Mongodb**
 
 - 📫 How to reach me **abnahid580@gmail.com**
 
-- 📄 Know about my experiences [https://abnahid.com](https://abnahid.com)
+- 📄 Know about my experiences [https://abnahid-dev.netlify.app/](https://abnahid-dev.netlify.app)
 
 
 <h2 align="center">I code with</h2>
@@ -55,7 +53,7 @@
   <img width="12" />
   
   <a href="https://twitter.com/xahid_420" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=000000" height="40" alt="Twitter logo" />
+    <img src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=ffffff" height="40" alt="Twitter logo" />
   </a>
   <img width="12" />
 
