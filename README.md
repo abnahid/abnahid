@@ -78,7 +78,7 @@
   <img width="12" />
 
   <a href="https://medium.com/@aznahid507" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/medium/000000" height="40" alt="Medium logo" />
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="40" alt="Medium logo" />
   </a>
   <img width="12" />
 
