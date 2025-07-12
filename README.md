@@ -79,7 +79,7 @@
   <img width="12" />
 
   <a href="https://linkedin.com/in/ajnahid" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40" alt="LinkedIn logo" />
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
 
