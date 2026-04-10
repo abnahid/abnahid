@@ -41,13 +41,9 @@
 ###  
 ### ⚙️ Backend  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+
+   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,docker,firebase" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase logo" />
 </div>
 
 ###  
