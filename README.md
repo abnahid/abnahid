@@ -1,19 +1,19 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Jabbar Al Nahid</h1>
-<p>I'm Abdul Jabbar Al Nahid, a passionate React & MERN Stack Developer who thrives on building modern, user-friendly web applications. I enjoy crafting clean, scalable solutions and transforming ideas into reality with code. As a frontend & MERN Stack enthusiast, I continuously push boundaries to create sleek, high-performance applications. Currently, I’m diving into Next.js and AI-powered UI innovations to elevate user experiences.</p>
+<p>I'm Abdul Jabbar Al Nahid, a full-stack developer building modern web applications with React and Next.js, working across frontend, backend, and DevOps to deliver fast, scalable, and production-ready systems using Node.js, Express, MongoDB, PostgreSQL, Docker, and cloud-based workflows, with a current focus on deepening my expertise in Next.js and integrating AI-driven features into real-world products.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abnahid&label=Profile%20views&color=0e75b6&style=flat" alt="abnahid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xahid_420" target="blank"><img src="https://img.shields.io/twitter/follow/xahid_420?logo=twitter&style=for-the-badge" alt="xahid_420" /></a> </p>
 
-- 🌱 I’m currently learning **Framework, Frontend,**
+- 🌱 I’m currently learning **Next.js & full-stack architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abnahid](https://github.com/abnahid)
 
-- 💬 Ask me about **React, Javascript, Express.js Nodejs, and Mongodb**
+- 💬 Ask me about ***React, Next.js, Node.js, Express, MongoDB, PostgreSQL, JavaScript**
 
-- 📫 How to reach me **abnahid580@gmail.com**
+- 📫 How to reach me **abnahid.dev@gmail.com**
 
 - 📄 Know about my experiences [https://abnahid-dev.netlify.app/](https://abnahid-dev.netlify.app)
 
@@ -64,25 +64,16 @@
 <h2 align="left">🌍 Connect with Me</h2>
 
 <div align="left">
-  <a href="https://codepen.io/aznahid" target="_blank">
-    <img src="https://cdn.simpleicons.org/codepen/ffffff" height="40" alt="CodePen logo" />
+  <a href="https://linkedin.com/in/ajnahid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
 
   <a href="https://twitter.com/xahid_420" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=ffffff" height="40" alt="Twitter logo" />
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="40" alt="Twitter logo" />
   </a>
   <img width="12" />
 
-  <a href="https://linkedin.com/in/ajnahid" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="40" alt="LinkedIn logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://instagram.com/ab.nahid_ff" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram logo" />
-  </a>
-  <img width="12" />
 
   <a href="https://dribbble.com/aznahid" target="_blank">
     <img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="40" alt="Dribbble logo" />
@@ -94,10 +85,6 @@
   </a>
   <img width="12" />
 
-  <a href="https://medium.com/@aznahid507" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/ffffff" height="40" alt="Medium logo" />
-  </a>
-  <img width="12" />
 
   <a href="https://www.youtube.com/c/abnahid5" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" alt="YouTube logo" />
